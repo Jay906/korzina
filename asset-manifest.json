@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/korzina/static/css/main.7de6a3f7.css",
+    "main.js": "/korzina/static/js/main.8edc0cea.js",
+    "static/media/delivery.png": "/korzina/static/media/delivery.961286c83c79324b6a22.png",
+    "static/media/hero.jpeg": "/korzina/static/media/hero.293001f3fac31e53651e.jpeg",
+    "static/media/korzina.jpg": "/korzina/static/media/korzina.3be6349efb14d24f08ef.jpg",
+    "static/media/pick.jpg": "/korzina/static/media/pick.ca1db9f3028c377b2f84.jpg",
+    "static/media/dixy.png": "/korzina/static/media/dixy.9528041db76ff287cb6e.png",
+    "static/media/update.jpg": "/korzina/static/media/update.05992cd0e886e49c3f05.jpg",
+    "static/media/pyatyorochka.png": "/korzina/static/media/pyatyorochka.51f7f35491dd61ed4e0f.png",
+    "static/media/okey.png": "/korzina/static/media/okey.eba5e50b4c62186be946.png",
+    "static/media/perekrestok.png": "/korzina/static/media/perekrestok.8855d8905bebfc60fb21.png",
+    "index.html": "/korzina/index.html",
+    "main.7de6a3f7.css.map": "/korzina/static/css/main.7de6a3f7.css.map",
+    "main.8edc0cea.js.map": "/korzina/static/js/main.8edc0cea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7de6a3f7.css",
+    "static/js/main.8edc0cea.js"
+  ]
+}
